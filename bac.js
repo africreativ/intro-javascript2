@@ -25,4 +25,4 @@ if (operator == "+") {
 }
 
 // display the result of the Calculator
-window.alert(" Result is " + result);
+window.alert(" The result is " + result);
