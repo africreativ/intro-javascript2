@@ -8,7 +8,9 @@ const operator = prompt(
 const number1 = parseFloat(prompt("First number: "));
 const number2 = parseFloat(prompt("Second number: "));
 
+
 let result; // declaration of the variable.
+
 
 // use if, elseif and else keyword to define the calculator condition in JavaScript.
 if (operator == "+") {
